@@ -22,4 +22,4 @@ Amos's personal learning summary or essays, including practical experience or su
 
 #### Efficient
 
-- [搜索引擎小技巧](efficient/搜索引擎小技巧.md)
+- [搜索引擎小技巧](./efficient/搜索引擎小技巧.md)
